@@ -46,7 +46,9 @@ export default defineNuxtConfig({
       "@nuxtjs/google-fonts",
       {
         families: {
-          Roboto: true,
+          Raleway: true,
+          "Maiden Orange": true,
+          Rockwell: true,
         },
       },
     ],
