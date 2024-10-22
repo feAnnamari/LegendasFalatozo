@@ -3,7 +3,13 @@
 @tailwind utilities;
 
 @layer base {
+    h1 {
+        @apply text-[32px] font-maiden-orange;
+    }
 
+    h2 {
+        @apply text-2xl font-maiden-orange;
+    }
 }
 
 @layer components {
